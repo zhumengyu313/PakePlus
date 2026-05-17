@@ -6,5 +6,10 @@
   <string>Request camera access for WebRTC</string>
   <key>NSMicrophoneUsageDescription</key>
   <string>Request microphone access for WebRTC</string>
+  <key>NSAppTransportSecurity</key>
+  <dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <true/>
+  </dict>
 </dict>
 </plist>
