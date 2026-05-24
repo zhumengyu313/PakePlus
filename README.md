@@ -150,9 +150,3 @@ publish: false：means this version will not be published immediately, although 
  <p align="center" >
     <img src="./docs/wxcode.png" width=300/>
  </p>
-
-## TODO
-
-1. add auto update feature
-2. support build android apk and build ios ipa
-3. add upload front build dist to build
